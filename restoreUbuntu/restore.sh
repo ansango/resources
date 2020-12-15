@@ -33,9 +33,7 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.1/install.sh | bash
 nvm install --lts
 
 sudo apt -y install byobu 
-
 sudo apt -y install htop
-
 sudo apt -y install dconf-editor
 
 #org->gnome->shell->extensions->dash-to-dock
@@ -47,13 +45,9 @@ sudo apt -y install gnome-tweaks
 #enable extensions gnome in gnome tweaks
 
 sudo apt -y install wmctrl
-
 sudo snap install code --classic
-
 sudo snap install postman
-
 sudo snap install vlc
-
 sudo snap install spotify
 
 #https://medium.com/@js_debugger/how-to-install-firefox-developer-edition-on-ubuntu-1c7f5f2b6883
