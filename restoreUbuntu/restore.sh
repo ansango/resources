@@ -36,7 +36,7 @@ sudo apt -y install byobu
 sudo apt -y install htop
 sudo apt -y install dconf-editor
 
-#org->gnome->shell->extensions->dash-to-dock
+#org->gnome->shell->extensions->dash-to-dock (TO CUSTOM DOCK)
 
 sudo apt -y install gnome-tweaks
 
