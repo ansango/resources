@@ -20,6 +20,7 @@ I hope you find it useful!
 12. [Databases](https://github.com/ansango/resources#diamonds-databases)
 13. [Deploying](https://github.com/ansango/resources#rocket-deploying)
 14. [Design](https://github.com/ansango/resources#framed_picture-design--media)
+15. [Fullstack & Roadmap](https://github.com/ansango/resources#robot-design--media)
 
 # :dark_sunglasses: Awesome Lists
 
@@ -398,6 +399,10 @@ I hope you find it useful!
 
   - [JS the Right Way](https://jstherightway.org/es-es/)
 
+  ## JavaScript Clean Code
+
+  - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript#table-of-contents)
+
 # :hearts: Frontend
 
 - [Awesome Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
@@ -420,6 +425,7 @@ I hope you find it useful!
 
   - [Awesome Angular](https://github.com/PatrickJS/awesome-angular)
   - [Angular JS](https://angular.io/)
+  - [Angular: Up and Running](https://learning.oreilly.com/library/view/angular-up-and/9781491999820/)
 
   ## Vue
 
@@ -435,6 +441,7 @@ I hope you find it useful!
 
   - [Awesome Nuxt](https://github.com/nuxt-community/awesome-nuxt)
   - [Nuxt JS](https://nuxtjs.org/)
+  - [Nuxt Modules](https://modules.nuxtjs.org/)
 
 # :clubs: Backend
 
@@ -444,6 +451,16 @@ I hope you find it useful!
 - [Awesome REST](https://github.com/marmelab/awesome-rest)
 - [Awesome Node JS](https://github.com/sindresorhus/awesome-nodejs)
 - [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
+
+  ## Laravel
+
+  - [Laravel](https://laravel.com/docs/8.x)
+  - [Composer](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-composer-on-ubuntu-20-04-es)
+  - [Laravel XAMPP](https://www.alexmilla.net/instalar-paso-a-paso-laravel-bajo-xampp-en-windows/)
+
+  ## API
+
+  - [RapidApi](https://rapidapi.com/marketplace)
 
 # :diamonds: Databases
 
@@ -482,6 +499,10 @@ I hope you find it useful!
   - [Best image format](https://www.pagecloud.com/blog/web-images-png-vs-jpg-vs-gif-vs-svg)
   - [5 steps to speed up your image heavy website](https://codeburst.io/5-steps-to-speed-up-your-image-heavy-website-65c874a86966)
 
+  ## Color
+
+  - [Coolors - Trending color palettes](https://coolors.co/palettes/trending)
+
   ## Illustrations
 
   - [unDraw](https://undraw.co/)
@@ -491,6 +512,8 @@ I hope you find it useful!
   - [Flaticon](https://www.flaticon.com/)
   - [Isometric](https://www.flaticon.com/icon-packs/isometric-technology)
   - [Material Design Icons](https://cdn.materialdesignicons.com/1.7.22/)
+  - [Open Emoji](https://openmoji.org/library/#group=flags)
+  - [Heroicons](https://heroicons.com/)
 
   ## SVG Backgrounds
 
@@ -500,3 +523,18 @@ I hope you find it useful!
 
   - [Material Palette](https://www.materialpalette.com/)
   - [Neumorphism](https://neumorphism.io/#8e5ba9)
+
+# :robot: Fulltack & Roadmap
+
+## Roadmaps
+
+- [Frontend Roadmap](https://roadmap.sh/frontend)
+- [React Roadmap](https://roadmap.sh/react)
+- [Vue Roadmap](https://flaviocopes.com/vue-developer-roadmap/)
+- [Backend Roadmap](https://roadmap.sh/backend)
+- [DevOps Roadmap](https://roadmap.sh/devops)
+- [Android Roadmap](https://roadmap.sh/android)
+- [PostgreSQL DBA Roadmap](https://roadmap.sh/postgresql-dba)
+- [QA Engineer Roadmap](https://roadmap.sh/qa)
+
+## Fullstack
