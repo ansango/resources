@@ -256,6 +256,62 @@ I hope you find it useful!
   - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   - [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
+  ## TailwindCSS
+
+  - [TailwindCSS](https://tailwindcss.com/) Official Tailwind CSS website.
+  - [Awesome Tailwind](https://github.com/aniftyco/awesome-tailwindcss) List of resources
+
+    ### Tools
+
+    - [Tailwind Play](https://play.tailwindcss.com/) Advanced online playground for Tailwind CSS.
+    - [IntelliSense for VSCode](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) IntelliSense extension for Visual Studio Code.
+    - [Stitches](https://stitches.hyperyolo.com/) Template generator with Tailwind (online).
+    - [CSS to Tailwind](https://transform.tools/css-to-tailwind) CSS Converter.
+    - [Tailwind Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet) Tailwind CSS class names cheat sheet.
+
+    ### Components // UI
+
+    - [Tailwind UI](https://tailwindui.com/components) Component library made with Tailwind CSS.
+    - [Tailwind Forms](https://github.com/tailwindlabs/tailwindcss-forms) Adds better default styles to form elements.
+    - [tailzilla.app](https://tailzilla.app/) Online playground for Tailwind CSS.
+    - [VueTailwind](https://www.vue-tailwind.com/) VueTailwind is a set of Vue components created to be customized to adapt to your application's unique design.
+    - [TailBlocks](https://mertjf.github.io/tailblocks/) 60+ different ready to use Tailwind CSS blocks.
+    - [Tailwind Components](https://tailwindcomponents.com/) Community-driven Tailwind CSS component repository.
+    - [Tailwind Toolbox](https://www.tailwindtoolbox.com/) Templates, components and resources.
+    - [Meraki UI Components](https://merakiui.com/) Beautiful Tailwind CSS components that support RTL languages.
+    - [Tailwind Templates](https://tailwindtemplates.io/) Collection of templates and components.
+    - [Treact](https://treact.owaiskhan.me/) React UI templates and components built using Tailwind CSS.
+    - [Tailwind Kit](https://creative-tim.com/learning-lab/tailwind-starter-kit) Framework-agnostic, Vue.js, React and Angular components. Creative Tim.
+    - [atomic design toolkit](https://a17t.miles.land/) Build beautiful, unique interfaces without reinventing the wheel.
+
+    ### Colors
+
+    - [Tailwind Color Shades](https://javisperez.github.io/tailwindcolorshades/) Color shades generator for Tailwind CSS.
+    - [Palette generator](https://adevade.github.io/color-scheme-generator/) Color palette generator that outputs Tailwind CSS configuration files.
+    - [Hypercolor](https://hypercolor.dev/#gradients) Collection of pre-configured Tailwind CSS gradients with directional options.
+
+    ### Animations
+
+    - [tail-animista](https://tail-animista.vercel.app/play/basic/scale-up/scale-up-center) Configurable custom animation utilities generator for Tailwind CSS.
+
+    ### Icons
+
+    - [Heroicons](https://heroicons.com/) Beautiful, hand-crafted SVG icons.
+
+    ### Typography
+
+    - [Tailwind Typography](https://github.com/tailwindlabs/tailwindcss-typography) Adds a prose class for beautiful typographic defaults.
+    - [Typography Playground ](https://tailwind-typography-playground.vercel.app/) Tool for trying different Google Fonts combinations with the Tailwind CSS Typography Plugin.
+
+    ### Plugins
+
+    - [Tailwind Dark Mode](https://color-mode.nuxtjs.org/#tailwind-dark-mode-plugin) NUXT/color-mode
+    - [Aspect Ratio](https://github.com/webdna/tailwindcss-aspect-ratio) Adds aspect-ratio utilities.
+    - [Scroll Snap](https://github.com/innocenzi/tailwindcss-scroll-snap) Adds scroll-snap utilities.
+    - [Shadow Outline Colors](https://github.com/octoper/tailwindcss-shadow-outline-colors) Adds box-shadow utilities based on configured colors.
+    - [Tailwind CSS Scrims](https://github.com/brettgullan/tailwindcss-scrims) Configurable Tailwind plugin for generating scrim utility classes.
+    - [@nuxtjs/tailwindcss](https://github.com/nuxt-community/tailwindcss-module) Tailwind CSS module for NuxtJS with PurgeCSS and modern CSS.
+
 # :spades: Javascript
 
 - [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
