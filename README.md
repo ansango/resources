@@ -20,7 +20,7 @@ I hope you find it useful!
 12. [Databases](https://github.com/ansango/resources#diamonds-databases)
 13. [Deploying](https://github.com/ansango/resources#rocket-deploying)
 14. [Design](https://github.com/ansango/resources#framed_picture-design--media)
-15. [Fullstack & Roadmap](https://github.com/ansango/resources#robot-design--media)
+15. [Fullstack & Roadmap](https://github.com/ansango/resources#robot-fulltack--roadmap)
 
 # :dark_sunglasses: Awesome Lists
 
