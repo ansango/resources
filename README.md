@@ -461,6 +461,7 @@ I hope you find it useful!
   ## API
 
   - [RapidApi](https://rapidapi.com/marketplace)
+  - [Random Data Api](https://random-data-api.com/documentation)
 
 # :diamonds: Databases
 
