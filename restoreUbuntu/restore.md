@@ -73,3 +73,17 @@ xinput enable 'ELAN2304:00 04F3:30FE Touchpad'
 
 # give the permissions! --> chmod +x touchpad-reset.sh
 
+// alternative touchpad restore
+
+sudo nano /etc/default/grub
+
+GRUB_DEFAULT=0
+GRUB_TIMEOUT_STYLE=hidden
+GRUB_TIMEOUT=0
+GRUB_DISTRIBUTOR=`lsb_release -i -s 2> /dev/null || echo Debian`
+GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"
+GRUB_CMDLINE_LINUX="i8042.nopnp=1 pci=nocrs"
+
+save and reboot
+
+
